@@ -189,7 +189,6 @@ body {
 
 .container-five {
 	padding-top: 10px;
-	*background-image: url('debut_dark.png');
 	color: white;
 	background: black;
 }
@@ -229,9 +228,7 @@ body {
 }
 
 .container-six {
-	padding-top: 10px;
-	padding-bottom: 10px;
-	background-image: url('sos.png');
+	background: rgb(232, 232, 232);
 }
 
 .footer {
