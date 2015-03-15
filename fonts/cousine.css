@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'cousineregular';
+    src: url('cousine-regular.eot');
+    src: url('cousine-regular.eot?#iefix') format('embedded-opentype'),
+         url('cousine-regular.woff') format('woff'),
+         url('cousine-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cousinebold';
+    src: url('cousine.bold.eot');
+    src: url('cousine.bold.eot?#iefix') format('embedded-opentype'),
+         url('cousine.bold.woff') format('woff'),
+         url('cousine.bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cousineitalic';
+    src: url('cousine.italic.eot');
+    src: url('cousine.italic.eot?#iefix') format('embedded-opentype'),
+         url('cousine.italic.woff') format('woff'),
+         url('cousine.italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cousinebold_italic';
+    src: url('cousine.bold-italic.eot');
+    src: url('cousine.bold-italic.eot?#iefix') format('embedded-opentype'),
+         url('cousine.bold-italic.woff') format('woff'),
+         url('cousine.bold-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
