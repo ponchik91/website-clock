@@ -63,6 +63,11 @@ body {
 .container-one h1 {
 	text-align: center;
 	color: white;
+}
+.container-one h3 {
+	text-align: center;
+	color: white;
+	font-style: italic;
 	margin-bottom: 50px;
 	font-style: italic;
 }
